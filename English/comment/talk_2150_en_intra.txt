@@ -1,0 +1,10 @@
+#Wed Dec 14 12:26:47 GMT 2016
+Explicit|1647..1650|1580..1645|1651..1664=possible conjunction
+Implicit||4211..4276|4278..4340=unsure\: sense, conn
+AltLex|2292..2294;2314..2318|2264..2313|2314..2358=Bonnie comment\: This is an instance of the construction "so X [that] Y",  where in the PDTB3, we're currently annotating "so ... that" as the AltLex.  Ideally, we want to say that it's the construction that indicates the discourse relation.
+Explicit|1034..1037||=Could this be a spoken discourse marker, that doesn't necessarily indiacte a concession, or a contrast?
+Explicit|4547..4549|4578..4770|4550..4576=unsure\: sense
+Explicit|1014..1018|957..1013|1019..1032=Not a discourse relation.
+Explicit|2599..2602|2555..2598|2603..2687=Reject - two NP's.
+AltLex|1503..1507|1439..1502|1503..1551=Only holds over two NPs.
+Explicit|1253..1256|1209..1251|1257..1337=unsure\: sense

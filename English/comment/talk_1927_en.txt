@@ -1,0 +1,13 @@
+#Wed Nov 23 11:05:16 GMT 2016
+AltLex|7496..7502|7483..7494|7504..7522=Elision of verb "have" in both arg1 and arg2?
+Explicit||493..531|533..691=arg2 is totally specified
+Explicit|1531..1534|1387..1470|1535..1615=Is arg1 is the referent of "it", but "it" does not have an explicit referent, i.e. it either refers to a general idea, or is pleonastic (dummy). What do others think?\n\narg2@1497\: Did you forget to identify an Arg1? Consider what the "it" refers to and use\nthat to choose and Arg1. Might it be that the world is changing in profound ways (first\nsentence of the talk)? If so, maybe Arg2-as-result\:  The world is changing in profound\nways, SO I wonder if today's investment rules are fit for tomorrow.  That is, the "but"\nis not serving a SEMANTIC rule, but rather a RHETORICAL role, as if the speaker had said\n"But seriously, folks" -- contrasting the joking with the serious message he has.
+Implicit||1230..1244|1246..1318=\n
+Explicit|1174..1181|882..1168|1183..1244=Is "clearly" a connective here?
+EntRel||7451..7470|7483..7494=Arg2 is a fragment, should we still annotate?
+EntRel||1895..2000|2002..2123=PDTB 2 guidelines say that arg1 and arg2 of an EntRel must be one sentence only. Shall we update to include multiple sentences?
+Implicit||1421..1470|1472..1495=token@1421\: How can a command like "Resist this" be EntRel?  What about taking Arg1 to be\n"the temptation may be to do this\: bury our heads in the sand and not think about it?"\nThen, to paraphrase, you have "You may be tempted to do A, but you should not do A",\nwhich I would take to be a CONTRAST.
+Implicit||1472..1483|1497..1518=token@1472, arg2@1497\: Is the relation between "Resist this" and "Don't do it at home"\nsimply conjunction?  Isn't the latter either MORE SPECIFIC than the former or an INSTANCE\nof it?\n\n
+Implicit||5620..5652|5654..5780=I thought it made more sense to include the repetition of Hesta in arg2. What do others think?
+Implicit||4429..4486|4488..4511=unsure\: sense
+Implicit||882..932|934..1015=token@882\: Consider possibly Arg2-as-detail (the specific population size and rate of growth)\n\ntoken@882, arg2@1183\: Is being an environmental and social issue more detail? Isn't it more\nthe opposite\: Arg1-as-detail, with Arg2 summarizing?

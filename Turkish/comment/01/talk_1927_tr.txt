@@ -1,0 +1,2 @@
+#Sun May 21 12:50:49 AST 2017
+AltLex|8559..8566|8567..8721|8732..8936=if hypophora is the only sense of a relation, that means it can also be marked as "arg2-as-detail". 

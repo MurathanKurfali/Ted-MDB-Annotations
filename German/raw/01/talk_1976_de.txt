@@ -1,0 +1,87 @@
+Im All wimmelt es von Planeten .
+Ich will , dass wir in nur einem Jahrzehnt ein Weltraumteleskop bauen , das das Bild einer Erde im Orbit eines anderen Sterns erfassen und herausfinden kann , ob es dort Leben geben könnte .
+Meine Kollegen im NASA Jet Propulsion Laboratory in Princeton und ich arbeiten an einer Technologie , die in einigen Jahren genau dazu in der Lage sein wird .
+Astronomen glauben heute , dass jeder Stern in der Galaxis einen Planeten hat .
+Sie schätzen , dass bis zu ein Fünftel davon einen erdähnlichen Planeten hat , auf dem Leben möglich wäre .
+Gesehen aber haben wir noch keinen ; wir haben sie nur indirekt erfasst .
+Dies ist das berühmte NASA-Foto vom blass-blauen Punkt .
+Aufgenommen wurde es 1990 von der Raumsonde Voyager , als man sie beim Verlassen des Sonnensystems drehte , um aus einer Entfernung von 6 Mrd. km eine Foto von der Erde zu machen .
+So ein Bild möchte ich von einem erdähnlichen Planeten eines anderen Sterns machen .
+Warum gibt es das noch nicht ?
+Warum ist das schwer ?
+Stellen Sie sich vor , wir nähmen das Hubble Weltraumteleskop , drehten es um und setzten es in eine Umlaufbahn um den Mars .
+Wir würden vermutlich ein leicht unscharfes Bild der Erde sehen , weil wir ein recht kleines Teleskop in der Umlaufbahn des Mars sind .
+Nun gehen wir auf die 10-fache Distanz .
+Hier sind wir in der Umlaufbahn des Uranus .
+Das Bild ist kleiner , weniger detailliert , gröber .
+Man sieht den kleinen Mond noch .
+Gehen wir wieder 10-mal so weit weg !
+Hier sind wir am Rand des Sonnensystems , im Kuipergürtel .
+Es gibt gar keine Auflösung mehr .
+Die Erde ist nun Carl Sagans blass-blauer Punkt .
+Wir entfernen uns wieder um das 10-Fache .
+Nun sind wir in der Oort ' schen Wolke außerhalb des Sonnensystems , und wir sehen , wie die Sonne langsam in unser Sichtfeld rückt , wo sich der Planet befindet .
+Und wieder 10-mal weiter weg .
+Nun sind wir bei Alpha Centauri , unserem nächsten Nachbarstern , und der Planet ist weg .
+Alles , was wir sehen , ist das große strahlende Bild des Sterns , der 10-Mrd.-mal heller leuchtet als der Planet , der in dem kleinen roten Kreis sein sollte .
+Das wollen wir sehen .
+Deshalb ist es so schwer !
+Das Licht vom Stern wird gebeugt , im Inneren des Teleskops gestreut , und erzeugt das sehr helle Bild , das den Planeten verblassen lässt .
+Um den Planeten sichtbar zu machen , müssen wir etwas gegen all das Licht tun .
+Wir müssen es loswerden .
+Viele meiner Kollegen arbeiten an tollen Technologien zu dem Zweck , aber ich möchte Ihnen heute die vorstellen , die ich am coolsten finde und die uns am ehesten innerhalb des nächsten Jahrzehnts eine Erde liefert .
+Vorgestellt wurde die Idee 1962 vom Vater des Weltraumteleskops , Lyman Spitzer .
+Dazu angeregt hatte ihn eine Eklipse .
+Sie kennen das alle : eine Sonnenfinsternis .
+Der Mond hat sich vor die Sonne geschoben .
+Er deckt den Großteils des Lichts ab und wir sehen um ihn herum eine matte Korona .
+Es ist wie wenn ich den Daumen hochhalte und den Strahler abblocke , der mich blendet : Ich kann Sie in der hinteren Reihe sehen .
+Also , was passiert hier ?
+Nun , der Mond wirft einen Schatten auf die Erde .
+Wir platzieren ein Teleskop oder eine Kamera in diesen Schatten , blicken zurück auf die Sonne , der Großteil des Lichts ist weg , und wir können die matte , feine Struktur in der Korona erkennen .
+Spitzer schlug vor , das im Weltraum nachzustellen .
+Wir bauen eine große Lichtblende , fliegen sie ins All , platzieren sie vor dem Stern , verdecken den Großteil des Lichts , fliegen ein Weltraumteleskop in den so erzeugten Schatten und " Zack ! " -- wir sehen Planeten .
+Aussehen würde das ungefähr so : Da ist die große Lichtblende -- und es gibt keine Planeten .
+Denn leider funktioniert das so nicht sehr gut , weil die Lichtwellen des Lichts und die Wellen um die Lichtblende gebeugt werden , auf dieselbe Weise wie im Teleskop .
+Es ist wie Wasser , das einen Stein im Bach umfließt , und all das Licht zerstört den Schatten einfach .
+Es ist ein schlechter Schatten : Wir sehen keine Planeten .
+Aber Spitzer kannte die Lösung .
+Wenn wir die Kanten aufbrechen , sie weicher machen könnten , um die Beugung zu reduzieren , dann können wir einen Planeten sehen .
+In den letzten , rund zehn Jahren haben wir genau dafür optimale Lösungen gefunden .
+Eine davon sieht ungefähr so aus : Wir nennen sie blütenförmige Sternenblende ( " Starshade " ) .
+Wenn wir die Kanten der Blütenblätter genau richtig hinbekommen , regulieren wir ihre Form so , dass wir die Beugung reduzieren .
+Nun ist es ein toller Schatten .
+Er ist etwa 10-Mrd.-mal dunkler als zuvor , und wir erkennen die angestrahlten Planeten -- einfach so .
+Sie muss natürlich größer sein als mein Daumen .
+Starshade ist halb so groß wie ein Fußballfeld .
+Sie muss 50 000 Kilometer vom Teleskop wegfliegen , das exakt in ihrem Schatten bleiben muss , und dann können wir diese Planeten sehen .
+Das klingt schwierig , aber brillante Ingenieure , meine Kollegen bei JPL , haben ein fabelhaftes Design entwickelt , und das sieht so aus .
+Sie ist anfangs um eine Nabe gewickelt .
+Sie trennt sich vom Teleskop .
+Die Blütenblätter entfalten sich -- öffnen sich .
+Das Teleskop dreht sich herum .
+Sie sehen , wie Starshade wendet und 50 000 Kilometer vom Teleskop wegfliegt .
+Sie wird sich vor den Stern platzieren und , einfach so , einen wunderbaren Schatten erzeugen .
+Zack , wir kriegen die Planeten in seiner Umlaufbahn .
+( Applaus ) Vielen Dank .
+Das ist kein Science-Fiction .
+Wir arbeiten seit 5 oder 6 Jahren daran .
+Letzten Sommer haben wir einen coolen Test durchgeführt , in Kalifornien bei Northrop Grumman .
+Dies sind vier Blütenblätter einer Starshade im kleinen Maßstab .
+Sie ist ca. halb so groß wie die , die Sie eben sahen .
+Hier entfalten sich die Blätter .
+Vier Studenten haben diese vier Blätter im Sommerpraktikum bei JPL gebaut .
+Sie sehen , wie sie ausfahren .
+Die Blätter müssen sich richtig drehen .
+Das Gerüst der Blätter muss jedes Mal exakt zur selben Stelle ausfahren , auf ein Zehntel Millimeter genau .
+Wir haben den Test 16-mal ausgeführt , und 16-mal blieb es exakt an derselben Stelle stehen , auf ein Zehntel Millimeter genau .
+Dies muss mit absoluter Präzision erfolgen , aber wenn es gelingt , diese Technologie zu bauen und ins All zu bringen , dann könnte man so etwas erblicken : Dies ist ein Bild eines unserer Nachbarsterne vom Hubble-Weltraumteleskop .
+Wenn wir ein ähnliches Weltraumteleskop , ein etwas größeres , dort hinausbringen und eine Blende davorfliegen könnten , dann sähen wir vielleicht so etwas ...
+Das ist ein Familienporträt des Sonnensystems -- aber nicht unseres ; wir hoffen auf ein anderes Sonnensystem -- , durch eine Blende gesehen , eine Starshade wie diese .
+Sie sehen Jupiter , Saturn , Uranus , Neptun und , direkt dort in der Mitte , neben dem Rest an Licht , ist der blass-blaue Punkt .
+Das ist die Erde .
+Das wollen wir sehen -- sehen , ob es Wasser gibt , Sauerstoff , Ozon , Dinge , die uns verraten , ob es dort Leben geben könnte .
+Für mich ist dies die coolste Wissenschaft .
+Darum arbeite ich in diesem Feld , weil ich denke , das wird die Welt verändern .
+Wenn wir das sehen , wird das alles verändern .
+Vielen Dank .

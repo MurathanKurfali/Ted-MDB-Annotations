@@ -1,0 +1,10 @@
+#Wed Apr 12 09:07:31 IST 2017
+Explicit|3571..3574|3405..3497|3575..3677=I'm excluding "then" as an element of spoken discourse. Do others agree?
+Implicit||1155..1207|1209..1251=unsure\: sense (do both senses hold, or just one, if so which one?)
+AltLex|3679..3683|3580..3583;3589..3677|3679..3723="Even" is what's called a "scope particle". It indicates that what's within its scope is the least expected entity that the predicate holds over. 
+EntRel||461..728|735..844=entity\: map
+EntRel||3131..3166|3168..3219=entity\: Rio de Janeiro
+Explicit|5256..5262|4837..4927|5264..5445="and" spoken discourse element
+Implicit||3405..3497|3499..3569=unsure\: conn (is "in fact" one of our core connectives?)
+EntRel||1916..1950|1952..2019=entity\: San Francisco
+EntRel||2887..2915|2935..3129=entity\: this

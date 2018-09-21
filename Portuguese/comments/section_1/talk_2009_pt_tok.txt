@@ -1,0 +1,7 @@
+#Mon Jul 04 16:31:01 WEST 2016
+Explicit|2755..2759|2642..2752|2760..2830=ingl\u00EAs\: manner "by"
+Implicit||2455..2639|2642..2830=or manner or instantiation
+NoRel||3958..4109|4112..4400=conclusion to the whole text, no relation with the previous sentence specifically.
+Implicit||3367..3560|3563..3584=rhetorical
+Explicit|714..725|563..713|726..766=ver
+Implicit||1640..1787|1790..1919=could be contrast. connective could be "while, enquanto" which is clearly contrast.

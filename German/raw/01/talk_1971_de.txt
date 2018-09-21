@@ -1,0 +1,24 @@
+Ich bin in Sierra Leone geboren und aufgewachsen , einem kleinen und sehr schönen Land in Westafrika , einem Land reich sowohl an Bodenschätzen als auch an kreativen Talenten .
+Allerdings ist Sierra Leone berüchtigt für einen jahrzehntelangen Rebellenkrieg in den 90ern , in dem ganze Dörfer niedergebrannt wurden .
+Schätzungsweise 8 000 Männern , Frauen und Kindern wurden in dieser Zeit Arme und Beine amputiert .
+Meine Familie und ich brachten uns vor einem dieser Angriffe in Sicherheit , als ich 12 war .
+In diesem Moment nahm ich mir vor , alles zu tun , um sicherzustellen , dass meine eigenen Kinder nicht dasselbe erleben müssen , was wir erlebt haben .
+Vielmehr sollten sie Teil von einem Sierra Leone sein , in dem Krieg und Amputationen nicht als Strategie zur Machtgewinnung genutzt werden .
+Ich beobachtete Menschen , die ich kannte , liebte , wie sie sich von dieser Verwüstung erholten , aber eine Sache quälte mich zutiefst , und zwar , dass viele der Amputierten in diesem Land nicht ihre Prothesen benutzten .
+Der Grund , wie ich später herausfand , waren die Prothesenschäfte , die Schmerzen verursachten , weil sie nicht gut passten .
+Der Prothesenschaft ist der Teil , in welchen der Amputierte seinen Stumpf steckt , der mit der eigentlichen Prothese verbunden ist .
+Selbst in den Industrieländern dauert es drei Wochen bis hin zu Jahren , bis sich ein Patient an den Schaft gewöhnt , wenn überhaupt .
+Prothesenbauer benutzen immer noch konventionelle Methoden , wie Pressen und Gießen , um Unibody-Prothesenschäfte herzustellen .
+Solche Schäfte üben oft unerträglichen Druck auf die Glieder der Patienten aus und verursachen Druckwunden und Blasen .
+Ganz gleich , wie leistungsfähig die Knöchelprothese ist , wenn der Prothesenschaft unbequem ist , werden Sie die Prothese nicht nutzen , und das ist heutzutage einfach inakzeptabel .
+Damals , als ich Professor Hugh Herr vor zweieinhalb Jahren traf , und er mich fragte , ob ich eine Lösung für dieses Problem hätte , sagte ich : " Nein , noch nicht , aber ich würde sie liebend gerne finden . "
+Also habe ich für meine Doktorarbeit am MIT Media Lab maßgefertige Prothesenschäfte entworfen , schnell und günstig , mit mehr Tragekomfort als herkömmliche Prothesen .
+Mittels Magnetresonanztomografie ( MRT ) erfasste ich die genaue Form der Anatomie des Patienten , benutzte die Berechnungstechnologie FEM , um besser vorherzusehen , welche inneren Belastungen bei normaler Nutzung entstehen , und lies danach einen Prothesenschaft herstellen .
+Wir benutzen 3D-Drucker , um Prothesenschäfte aus mehreren Materialen herzustellen , die den Druck dort verringern , wo es die Anatomie des Patienten nötig macht .
+Kurz gesagt , wir benutzen Daten , um neuartige Schäfte schnell und günstig herzustellen .
+In einem Versuch , den wir vor kurzem am Media Lab durchführten , hat einer unserer Patienten , ein US-Veteran , der seit über 20 Jahren amputiert ist und schon dutzende Prothesen getragen hat , Folgendes über unsere ausgedruckten Prothesen gesagt : " Sie ist so weich , als würde man auf Kissen laufen , und verdammt sexy . "
+( Lachen ) Heutzutage sollten Behinderungen niemanden mehr daran hindern , ein sinnsvolles Leben zu führen .
+Meine Hoffnung und mein Wunsch ist es , dass die Werkzeuge und Prozesse , die wir in unserer Forschungsgruppe entwickeln , genutzt werden können , um hochfunktionale Prothesen herzustellen , für die , die sie brauchen .
+Für mich ist es ein Anfang , um die Seelen derer zu heilen , die vom Krieg und Krankheiten betroffen sind , ist für mich komfortable und erschwingliche Schnittstellen für ihre Körper herzustellen .
+Ob in Sierra Leone oder in Boston , ich hoffe , dass dies nicht nur ihren Sinn für menschliches Können wiederherstellt , sondern verändert .
+Vielen Dank

@@ -1,0 +1,6 @@
+#Thu Jan 25 19:26:35 AST 2018
+Implicit||1211..1300|1302..1309=Explicit in other languages.
+Explicit|647..654|564..633|635..645;656..750=Possible arg2 as subst in other languages.
+Implicit||1818..1865|1867..1922=There is also a temporal relation here, but I don't think it really makes sense to annotate it, as it's just turn taking in a conversation.
+AltLex|938..948;976..979|865..936|980..1052=Non defining RRC "I would come to find out".
+Explicit|3264..3274|3241..3263|3275..3316=Not sure about this one. In Edinburgh, I think we are still undecided on how to treat tokens such as these, i.e. "not only, but also".
