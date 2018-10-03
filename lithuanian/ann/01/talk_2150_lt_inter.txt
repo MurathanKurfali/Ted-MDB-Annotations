@@ -1,0 +1,40 @@
+Implicit||Wr|Comm|Null|Null||taigi|Contingency.Cause+SpeechAct.Result+SpeechAct||||||0..281|Inh|Null|Null|Null||282..325|Inh|Null|Null|Null|||||||282|DEFAULT|
+Implicit||Wr|Comm|Null|Null||bet|Comparison.Concession.Arg2-as-denier||||||282..325|Inh|Null|Null|Null||326..354|Inh|Null|Null|Null|||||||326|DEFAULT|
+Implicit||Wr|Comm|Null|Null||priešingai|Expansion.Substitution.Arg2-as-subst||||||326..354|Inh|Null|Null|Null||356..566|Inh|Null|Null|Null|||||||356|DEFAULT|
+EntRel||||||||||||||356..566||||||569..651|||||||||||569|DEFAULT|
+Implicit||Wr|Comm|Null|Null||priešingai|Comparison.Contrast||||||569..651|Inh|Null|Null|Null||662..924|Inh|Null|Null|Null|||||||662|DEFAULT|
+Implicit||Wr|Comm|Null|Null||kadangi|Contingency.Cause.Reason||||||796..924|Inh|Null|Null|Null||926..1035|Inh|Null|Null|Null|||||||926|DEFAULT|
+EntRel||||||||||||||926..1035||||||1037..1193|||||||||||1037|DEFAULT|
+Explicit|1195..1198|Wr|Comm|Null|Null|||Comparison.Contrast||||||1037..1193|Inh|Null|Null|Null||1199..1266|Inh|Null|Null|Null|||||||1195..1198|DEFAULT|
+Implicit||Wr|Comm|Null|Null||pavyzdziui|Expansion.Instantiation||||||1199..1266|Inh|Null|Null|Null||1268..1354|Inh|Null|Null|Null|||||||1268|DEFAULT|
+Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||1268..1354|Inh|Null|Null|Null||1356..1471|Inh|Null|Null|Null|||||||1356|DEFAULT|
+Implicit||Wr|Comm|Null|Null||bet|Comparison.Contrast||||||1356..1471|Inh|Null|Null|Null||1474..1500|Inh|Null|Null|Null|||||||1474|DEFAULT|
+Implicit||Wr|Comm|Null|Null||iš tiesų|Expansion.Level-of-detail.Arg2-as-detail||||||1474..1500|Inh|Null|Null|Null||1502..1526|Inh|Null|Null|Null|||||||1502|DEFAULT|
+Implicit||Wr|Comm|Null|Null||faktiškai|Expansion.Level-of-detail.Arg2-as-detail||||||1502..1526|Inh|Null|Null|Null||1528..1934|Inh|Null|Null|Null|||||||1528|DEFAULT|
+Explicit|1936..1941|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1528..1934|Inh|Null|Null|Null||1942..2166|Inh|Null|Null|Null|||||||1936..1941|DEFAULT|
+Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||1942..2166|Inh|Null|Null|Null||2168..2282|Inh|Null|Null|Null|||||||2168|DEFAULT|
+Explicit|2284..2286|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2168..2282|Inh|Null|Null|Null||2287..2316|Inh|Null|Null|Null|||||||2284..2286|DEFAULT|
+EntRel||||||||||||||2287..2316||||||2338..2490|||||||||||2338|DEFAULT|
+NoRel||||||||||||||2338..2490||||||2493..2520||||||||||||DEFAULT|
+EntRel||||||||||||||2493..2520||||||2522..2654|||||||||||2522|DEFAULT|
+Implicit||Wr|Comm|Null|Null||kitaip tariant|Expansion.Equivalence||||||2522..2654|Inh|Null|Null|Null||2656..2722|Inh|Null|Null|Null|||||||2656|DEFAULT|
+NoRel||||||||||||||2656..2722||||||2724..2811||||||||||||DEFAULT|
+Implicit||Wr|Comm|Null|Null||faktiškai|Expansion.Level-of-detail.Arg2-as-detail||||||2724..2811|Inh|Null|Null|Null||2813..2870|Inh|Null|Null|Null|||||||2813|DEFAULT|
+Explicit|2872..2875|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||2724..2870|Inh|Null|Null|Null||2876..2959|Inh|Null|Null|Null|||||||2872..2875|DEFAULT|
+AltLex|2961..2964|Wr|Comm|Null|Null|||Expansion.Instantiation||||||2876..2959|Inh|Null|Null|Null||2965..2995|Inh|Null|Null|Null|||||||2961..2964|DEFAULT|
+Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||2965..2995|Inh|Null|Null|Null||2997..3125|Inh|Null|Null|Null|||||||2997|DEFAULT|
+Implicit||Wr|Comm|Null|Null||taigi|Contingency.Cause+SpeechAct.Result+SpeechAct||||||2997..3125|Inh|Null|Null|Null||3127..3139|Inh|Null|Null|Null|||||||3127|DEFAULT|
+Explicit|3141..3143|Wr|Comm|Null|Null|||Expansion.Conjunction||||||3127..3139|Inh|Null|Null|Null||3144..3181|Inh|Null|Null|Null|||||||3141..3143|DEFAULT|
+Explicit|3183..3188|Wr|Comm|Null|Null|||Contingency.Cause+SpeechAct.Result+SpeechAct||||||3144..3181|Inh|Null|Null|Null||3189..3428|Inh|Null|Null|Null|||||||3183..3188|DEFAULT|
+EntRel||||||||||||||3189..3428||||||3431..3456|||||||||||3431|DEFAULT|
+Implicit||Wr|Comm|Null|Null||iš tiesų|Expansion.Level-of-detail.Arg2-as-detail||||||3431..3456|Inh|Null|Null|Null||3458..3565|Inh|Null|Null|Null|||||||3458|DEFAULT|
+Implicit||Wr|Comm|Null|Null||taigi|Contingency.Cause+SpeechAct.Result+SpeechAct||||||3458..3565|Inh|Null|Null|Null||3567..3592|Inh|Null|Null|Null|||||||3567|DEFAULT|
+AltLex|3567..3569|Wr|Comm|Null|Null|||Hypophora||||||3570..3592|Inh|Null|Null|Null||3594..3671|Inh|Null|Null|Null|||||||3567..3569|DEFAULT|
+Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||3594..3671|Inh|Null|Null|Null||3673..3903|Inh|Null|Null|Null|||||||3673|DEFAULT|
+Implicit||Wr|Comm|Null|Null||taciau|Comparison.Concession.Arg2-as-denier||||||3673..3903|Inh|Null|Null|Null||3905..3955|Inh|Null|Null|Null|||||||3905|DEFAULT|
+Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||3905..3955|Inh|Null|Null|Null||3958..4032|Inh|Null|Null|Null|||||||3958|DEFAULT|
+Implicit||Wr|Comm|Null|Null||nes|Contingency.Cause.Reason||||||3958..4032|Inh|Null|Null|Null||4034..4158|Inh|Null|Null|Null|||||||4034|DEFAULT|
+Implicit||Wr|Comm|Null|Null||taigi|Contingency.Cause.Result||||||4034..4158|Inh|Null|Null|Null||4160..4276|Inh|Null|Null|Null|||||||4160|DEFAULT|
+Explicit|4279..4290|Wr|Comm|Null|Null|||Expansion.Conjunction||||||4160..4276|Inh|Null|Null|Null||4292..4433|Inh|Null|Null|Null|||||||4279..4290|DEFAULT|
+Explicit|4436..4441|Wr|Comm|Null|Null|||Contingency.Cause+SpeechAct.Result+SpeechAct||||||4292..4433|Inh|Null|Null|Null||4443..4458|Inh|Null|Null|Null|||||||4436..4441|DEFAULT|
+AltLex|4443..4446|Wr|Comm|Null|Null|||Hypophora||||||4443..4458|Inh|Null|Null|Null||4460..4747|Inh|Null|Null|Null|||||||4443..4446|DEFAULT|
