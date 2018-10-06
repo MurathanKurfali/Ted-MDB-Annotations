@@ -2,7 +2,7 @@
 
 This repository contains the TED-Multilingual Discourse  Bank (TED-MDB) corpus.
 
-# References
+# Publications
 
 If you use this resource, please consider citing
 
