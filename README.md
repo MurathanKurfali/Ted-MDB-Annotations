@@ -6,6 +6,16 @@ This repository contains the TED-Multilingual Discourse  Bank (TED-MDB) corpus.
 
 If you use this resource, please consider citing
 
+
+    @article{zeyrek2019ted,
+      title={TED Multilingual Discourse Bank (TED-MDB): a parallel corpus annotated in the PDTB style},
+      author={Zeyrek, Deniz and Mendes, Amalia and Grishina, Yulia and Kurfali, Murathan and Gibbon, Samuel and Ogrodniczuk,    Maciej},
+      journal={Language Resources and Evaluation},
+      pages={1--38},
+      year={2019},
+      publisher={Springer}
+    }
+
     @inproceedings{zeyrek2018multilingual,
       title={Multilingual Extension of PDTB-Style Annotation: The Case of TED Multilingual Discourse Bank.},
       author={Zeyrek, Deniz and Mendes, Amalia and Kurfali, Murathan},
