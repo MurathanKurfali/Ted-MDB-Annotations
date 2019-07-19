@@ -1,4 +1,3 @@
-Explicit||Wr|Comm|Null|Null||||||||||Inh|Null|Null|Null|||Inh|Null|Null|Null||
 Explicit|119..124|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Niejednoczesność (Asynchronous) .Następstwo (Succession)||||||125..141|Inh|Null|Null|Null||143..221|Inh|Null|Null|Null||
 Implicit||Wr|Comm|Null|Null||i (and)|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification) ||||||58..117|Inh|Null|Null|Null||119..221|Inh|Null|Null|Null||
 Implicit||Wr|Comm|Null|Null||i (and)|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification) ||||||119..221|Inh|Null|Null|Null||223..298|Inh|Null|Null|Null||
