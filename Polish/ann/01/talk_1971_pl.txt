@@ -1,0 +1,43 @@
+Explicit|196..202|Wr|Comm|Null|Null|||Relacja porównawcza (Comparison).Przyzwolenie (Concession) .Przeciwwskazanie (Arg2-as-denier Expectation)||||||66..194|Inh|Null|Null|Null||203..303|Inh|Null|Null|Null||
+Explicit|351..356|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||196..303|Inh|Null|Null|Null||305..350;357..370|Inh|Null|Null|Null||
+Explicit|443..448|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||305..370|Inh|Null|Null|Null||449..535|Inh|Null|Null|Null||
+Explicit|537..540|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja celowa .Cel Arg2 (Arg2-as-goal)||||||372..535|Inh|Null|Null|Null||541..628|Inh|Null|Null|Null||
+Explicit|630..635|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||636..706|Inh|Null|Null|Null||708..773|Inh|Null|Null|Null||
+EntRel||||||||||||||537..628||||||630..773||||||
+Explicit|805..824|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa (Cause) .Przyczyna (Reason Arg1-as-result)||||||733..773|Inh|Null|Null|Null||829..889|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||krótko mówiąc|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification) .Uszczegółowienie Arg2 (Arg2-as-detail Specification)||||||829..889|Inh|Null|Null|Null||891..991|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jednakże|Relacja porównawcza (Comparison).Przyzwolenie (Concession) .Przeciwwskazanie (Arg2-as-denier Expectation)||||||891..991|Inh|Null|Null|Null||993..1125|Inh|Null|Null|Null||
+Explicit|1068..1073|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Niejednoczesność (Asynchronous) .Następstwo (Succession)||||||993..1066|Inh|Null|Null|Null||1074..1096|Inh|Null|Null|Null||
+Explicit|1098..1099|Wr|Comm|Null|Null|||Relacja porównawcza (Comparison).Przyzwolenie (Concession) .Przeciwwskazanie (Arg2-as-denier Expectation)||||||993..1096|Inh|Null|Null|Null||1100..1125|Inh|Null|Null|Null||
+EntRel||||||||||||||993..1125||||||1127..1241||||||
+Explicit|1175..1180|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Uszczegółowienie (Specification) .Uszczegółowienie Arg2 (Arg2-as-detail Specification)||||||1127..1173|Inh|Null|Null|Null||1181..1204|Inh|Null|Null|Null||
+Explicit|1206..1208|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja celowa .Cel Arg2 (Arg2-as-goal)||||||1181..1204|Inh|Null|Null|Null||1209..1241|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i w efekcie|Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa (Cause) .Skutek (Result Arg2-as-result)||||||1125..1241|Inh|Null|Null|Null||1243..1334|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||so|Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa (Cause) .Skutek (Result Arg2-as-result)||||||1243..1334|Inh|Null|Null|Null||1336..1384|Inh|Null|Null|Null||
+Explicit|1386..1391|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Sytuacja hipotetyczna (Condition).Warunek Arg2 (Arg2-as-cond)||||||1421..1444|Inh|Null|Null|Null||1392..1419|Inh|Null|Null|Null||
+EntRel||||||||||||||1336..1384||||||1386..1493||||||
+Explicit|1446..1447|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Uszczegółowienie (Specification) .Uszczegółowienie Arg2 (Arg2-as-detail Specification)||||||1384..1444|Inh|Null|Null|Null||1448..1493|Inh|Null|Null|Null||
+Explicit|1495..1500|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||1557..1600|Inh|Null|Null|Null||1501..1555|Inh|Null|Null|Null||
+EntRel||||||||||||||1386..1493||||||1495..1600||||||
+Implicit||Wr|Comm|Null|Null||więc (so)|Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa (Cause) .Skutek (Result Arg2-as-result)||||||1495..1600|Inh|Null|Null|Null||1602..1616|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||mianowicie|Relacja pytanie - odpowiedź Q\A||||||1602..1616|Inh|Null|Null|Null||1618..1663|Inh|Null|Null|Null||
+NoRel||||||||||||||1618..1663||||||1665..1809||||||
+Implicit||Wr|Comm|Null|Null||otóż|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification) .Uszczegółowienie Arg2 (Arg2-as-detail Specification)||||||1665..1809|Inh|Null|Null|Null||1811..2028|Inh|Null|Null|Null||
+Explicit|1847..1849|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja celowa .Cel Arg1 (Arg1-as-goal)||||||1811..1845|Inh|Null|Null|Null||1850..1882|Inh|Null|Null|Null||
+Explicit|1884..1891|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Niejednoczesność (Asynchronous) .Następstwo (Succession)||||||1811..1882|Inh|Null|Null|Null||1892..1934|Inh|Null|Null|Null||
+Explicit|1936..1938|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja celowa .Cel Arg2 (Arg2-as-goal)||||||1892..1934|Inh|Null|Null|Null||1939..2028|Inh|Null|Null|Null||
+Explicit|2030..2035|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Niejednoczesność (Asynchronous) .Następstwo (Succession)||||||1811..2028|Inh|Null|Null|Null||2036..2071|Inh|Null|Null|Null||
+EntRel||||||||||||||2030..2071||||||2073..2199||||||
+Explicit|2101..2103|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja celowa .Cel Arg2 (Arg2-as-goal)||||||2073..2099|Inh|Null|Null|Null||2104..2199|Inh|Null|Null|Null||
+Explicit|2201..2210|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Uszczegółowienie (Specification) .Podsumowanie Arg1 (Arg1-as-detail Summarization)||||||2073..2199|Inh|Null|Null|Null||2212..2273|Inh|Null|Null|Null||
+Explicit|2228..2230|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja celowa .Cel Arg2 (Arg2-as-goal)||||||2212..2226|Inh|Null|Null|Null||2231..2273|Inh|Null|Null|Null||
+EntRel||||||||||||||2201..2273||||||2275..2493||||||
+Explicit|2490..2493|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Egzemplifikacja (Instantiation)||||||2275..2489|Inh|Null|Null|Null||2496..2573|Inh|Null|Null|Null||
+Explicit|2544..2545|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Współrzędność (Conjunction)||||||2496..2542|Inh|Null|Null|Null||2546..2572|Inh|Null|Null|Null||
+NoRel||||||||||||||2496..2573||||||2575..2583||||||
+NoRel||||||||||||||2575..2583||||||2584..2680||||||
+Implicit||Wr|Comm|Null|Null||stąd|Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa+Sąd (Cause+Belief) .Skutek (Result)||||||2584..2680|Inh|Null|Null|Null||2682..2843|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||ponieważ (because)|Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa+Sąd (Cause+Belief) .Przyczyna (Reason)||||||2682..2843|Inh|Null|Null|Null||2845..2972|Inh|Null|Null|Null||
+EntRel||||||||||||||2845..2972||||||2974..3093||||||
+Explicit|3048..3053|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||2974..3046|Inh|Null|Null|Null||3054..3093|Inh|Null|Null|Null||
+NoRel||||||||||||||2974..3093||||||3095..3111||||||
