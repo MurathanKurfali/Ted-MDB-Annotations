@@ -1,4 +1,3 @@
-Explicit||Wr|Comm|Null|Null||||||||||Inh|Null|Null|Null|||Inh|Null|Null|Null|||||||0..1|DEFAULT|
 Explicit|142..146|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||0..140|Inh|Null|Null|Null||148..231|Inh|Null|Null|Null|||||||142..146|DEFAULT|
 Explicit|207..213|Wr|Comm|Null|Null|||Expansion.Level-of-detail.Arg2-as-detail||||||148..205|Inh|Null|Null|Null||214..231|Inh|Null|Null|Null|||||||207..213|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ir|Expansion.Level-of-detail.Arg2-as-detail||||||148..231|Inh|Null|Null|Null||233..310|Inh|Null|Null|Null|||||||233|DEFAULT|
