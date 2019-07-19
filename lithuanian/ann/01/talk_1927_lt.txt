@@ -112,7 +112,7 @@ Implicit||Wr|Comm|Null|Null||iš tiesų|Expansion.Level-of-detail.Arg2-as-detail
 Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||6055..6135|Inh|Null|Null|Null||6137..6208|Inh|Null|Null|Null|||||||6137|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||6055..6208|Inh|Null|Null|Null||6210..6307|Inh|Null|Null|Null|||||||6210|DEFAULT|
 Implicit||Wr|Comm|Null|Null||kaip|Expansion.Manner.Arg2-as-manner||||||6210..6258|Inh|Null|Null|Null||6260..6307|Inh|Null|Null|Null|||||||6260|DEFAULT|
-Explicit|6309..6314|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||6208..6307|Inh|Null|Null|Null|||Inh|Null|Null|Null|||||||6309..6314|DEFAULT|
+Explicit|6309..6314|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||6208..6307|Inh|Null|Null|Null||6309..6314|Inh|Null|Null|Null||||||||DEFAULT|
 Explicit|6317..6320|Wr|Comm|Null|Null|||Contingency.Cause.Reason|Hypophora|||||6309..6314|Inh|Null|Null|Null||6320..6380|Inh|Null|Null|Null|||||||6317..6320|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ir|Expansion.Level-of-detail.Arg2-as-detail||||||6316..6380|Inh|Null|Null|Null||6382..6499|Inh|Null|Null|Null|||||||6382|DEFAULT|
 Explicit|6501..6506|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Reason+Belief||||||6395..6499|Inh|Null|Null|Null||6507..6523|Inh|Null|Null|Null|||||||6501..6506|DEFAULT|
