@@ -1,4 +1,4 @@
-Explicit||Wr|Comm|Null|Null|||Hypophora||||||2924..3084|Inh|Null|Null|Null||3086..3227|Inh|Null|Null|Null|||||||0..1|DEFAULT|
+Explicit||Wr|Comm|Null|Null|||Hypophora||||||2924..3084|Inh|Null|Null|Null||3086..3227|Inh|Null|Null|Null|||Rejected||||0..1|DEFAULT|
 Explicit|2..5|Wr|Comm|Null|Null|||Temporal.Synchronous||||||18..63|Inh|Null|Null|Null||6..16|Inh|Null|Null|Null|||||||2..5|DEFAULT|
 Explicit|39..42|Wr|Comm|Null|Null|||Expansion.Level-of-detail.Arg2-as-detail||||||22..37|Inh|Null|Null|Null||43..63|Inh|Null|Null|Null|||||||39..42|DEFAULT|
 Implicit||Wr|Comm|Null|Null||taigi|Contingency.Cause+SpeechAct.Result+SpeechAct||||||2..63|Inh|Null|Null|Null||65..191|Inh|Null|Null|Null|||||||65|DEFAULT|
