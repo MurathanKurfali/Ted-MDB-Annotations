@@ -156,7 +156,7 @@ Explicit|10149..10153|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||
 Explicit|10232..10238|Wr|Comm|Null|Null|||Temporal.Synchronous||||||10270..10297|Inh|Null|Null|Null||10239..10269|Inh|Null|Null|Null|||||||10232..10238|DEFAULT|
 NoRel||||||||||||||10103..10229||||||10232..10297||||||||||||DEFAULT|
 Implicit||Wr|Comm|Null|Null||isto é|Expansion.Level-of-detail.Arg2-as-detail||||||10232..10297|Inh|Null|Null|Null||10300..10477|Inh|Null|Null|Null|||||||10300|DEFAULT|
-Explicit|10395..10396|Wr|Comm|Null|Null|||Expansion.Conjunction|||||10332..10394|10298..10329|Inh|Null|Null|Null||10434..10477|Inh|Null|Null|Null||10399..10433|||||10395..10396|DEFAULT|
+Explicit|10395..10396|Wr|Comm|Null|Null|||Expansion.Conjunction|||||10332..10394|10300..10329|Inh|Null|Null|Null||10434..10477|Inh|Null|Null|Null||10399..10433|||||10395..10396|DEFAULT|
 Explicit|10399..10415|Wr|Comm|Null|Null|||Temporal.Synchronous||||||10300..10394|Inh|Null|Null|Null||10434..10477|Inh|Null|Null|Null||10418..10431|||||10399..10415|DEFAULT|
 NoRel||||||||||||||10300..10477||||||10557..10579||||||||||||DEFAULT|
 Implicit||Wr|Comm|Null|Null||e|Comparison.Similarity||||||10565..10579|Inh|Null|Null|Null||10582..10597|Inh|Null|Null|Null|||||||10582|DEFAULT|
