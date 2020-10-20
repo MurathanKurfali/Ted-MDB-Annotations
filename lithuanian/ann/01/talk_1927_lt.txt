@@ -107,7 +107,7 @@ Explicit|5825..5828|Wr|Comm|Null|Null|||Expansion.Level-of-detail.Arg2-as-detail
 Explicit|5865..5870|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||5815..5863|Inh|Null|Null|Null||5871..5966|Inh|Null|Null|Null|||||||5865..5870|DEFAULT|
 Implicit||Wr|Comm|Null|Null||trumpai|Expansion.Level-of-detail.Arg1-as-detail||||||5871..5966|Inh|Null|Null|Null||5968..5984|Inh|Null|Null|Null|||||||5968|DEFAULT|
 Implicit||Wr|Comm|Null|Null||taigi|Contingency.Cause+SpeechAct.Result+SpeechAct||||||5815..5984|Inh|Null|Null|Null||5986..6024|Inh|Null|Null|Null|||||||5986|DEFAULT|
-NoRel||||||||||||||5984..6024||||||6026..6053||||||||||||DEFAULT|
+NoRel||||||||||||||5987..6024||||||6026..6053||||||||||||DEFAULT|
 Implicit||Wr|Comm|Null|Null||iš tiesų|Expansion.Level-of-detail.Arg2-as-detail||||||6026..6053|Inh|Null|Null|Null||6055..6208|Inh|Null|Null|Null|||||||6055|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||6055..6135|Inh|Null|Null|Null||6137..6208|Inh|Null|Null|Null|||||||6137|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||6055..6208|Inh|Null|Null|Null||6210..6307|Inh|Null|Null|Null|||||||6210|DEFAULT|
