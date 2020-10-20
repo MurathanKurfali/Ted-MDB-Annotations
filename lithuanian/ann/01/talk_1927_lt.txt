@@ -48,7 +48,7 @@ Explicit|2774..2776|Wr|Comm|Null|Null|||Expansion.Level-of-detail.Arg2-as-detail
 Explicit|2836..2839|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Result+Belief||||||2817..2834|Inh|Null|Null|Null||2840..2845|Inh|Null|Null|Null|||||||2836..2839|DEFAULT|
 Explicit|2847..2850|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||2840..2845|Inh|Null|Null|Null||2851..2881|Inh|Null|Null|Null|||||||2847..2850|DEFAULT|
 Implicit||Wr|Comm|Null|Null||nes|Contingency.Cause.Reason||||||2817..2881|Inh|Null|Null|Null||2883..2956|Inh|Null|Null|Null|||||||2883|DEFAULT|
-Implicit||Wr|Comm|Null|Null||pavyzdžiui|Expansion.Instantiation||||||2881..2956|Inh|Null|Null|Null||2958..3113|Inh|Null|Null|Null|||||||2958|DEFAULT|
+Implicit||Wr|Comm|Null|Null||pavyzdžiui|Expansion.Instantiation||||||2883..2956|Inh|Null|Null|Null||2958..3113|Inh|Null|Null|Null|||||||2958|DEFAULT|
 Explicit|2997..3000|Wr|Comm|Null|Null|||Expansion.Level-of-detail.Arg2-as-detail||||||2958..2995|Inh|Null|Null|Null||3001..3113|Inh|Null|Null|Null|||||||2997..3000|DEFAULT|
 Explicit|3115..3118|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2958..3113|Inh|Null|Null|Null||3119..3167|Inh|Null|Null|Null|||||||3115..3118|DEFAULT|
 Explicit|3218..3221|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||3115..3216|Inh|Null|Null|Null||3222..3252|Inh|Null|Null|Null|||||||3218..3221|DEFAULT|
