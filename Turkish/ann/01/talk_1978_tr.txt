@@ -123,7 +123,7 @@ Explicit|6798..6800|Wr|Comm|Null|Null|||Expansion.Conjunction|Contingency.Cause.
 AltLex|6922..6928|Wr|Comm|Null|Null|||Contingency.Cause||||||6930..7052|Inh|Null|Null|Null||6880..6921|Inh|Null|Null|Null|||||||6922..6928|DEFAULT|
 EntRel||||||||||||||6528..6878||||||6880..7052|||||||||||6880|DEFAULT|
 NoRel||||||||||||||6801..6878||||||6880..7052||||||||||||DEFAULT|
-Explicit|6960..6962|Wr|Comm|Null|Null|||Expansion.Conjunction|Expansion.Instantiation|||||6928..6959|Inh|Null|Null|Null||6963..7052|Inh|Null|Null|Null|||||||6960..6962|DEFAULT|
+Explicit|6960..6962|Wr|Comm|Null|Null|||Expansion.Conjunction|Expansion.Instantiation|||||6930..6959|Inh|Null|Null|Null||6963..7052|Inh|Null|Null|Null|||||||6960..6962|DEFAULT|
 Implicit||Wr|Comm|Null|Null||mesela|Expansion.Instantiation||||||6880..7052|Inh|Null|Null|Null||7054..7166|Inh|Null|Null|Null|||||||7054|DEFAULT|
 Explicit|7114..7121|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||7123..7166|Inh|Null|Null|Null||7054..7121|Inh|Null|Null|Null|||||||7114..7121|DEFAULT|
 Explicit|7168..7171|Wr|Comm|Null|Null|||Comparison.Contrast||||||7054..7166|Inh|Null|Null|Null||7172..7276|Inh|Null|Null|Null|||||||7168..7171|DEFAULT|
