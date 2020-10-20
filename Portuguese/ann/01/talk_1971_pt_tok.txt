@@ -26,7 +26,7 @@ Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||1836..1893|Inh|Null|Nu
 Explicit|1929..1932|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1909..1924|Inh|Null|Null|Null||1933..1960|Inh|Null|Null|Null|||||||1929..1932|DEFAULT|
 Explicit|1965..1970|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1896..1960|Inh|Null|Null|Null||1973..2159|Inh|Null|Null|Null|||||||1965..1970|DEFAULT|
 Implicit||Wr|Comm|Null|Null||especificamente|Expansion.Level-of-detail.Arg2-as-detail||||||1973..2159|Inh|Null|Null|Null||2162..2242|Inh|Null|Null|Null|||||||2162|DEFAULT|
-Explicit|2200..2204|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||2160..2199|Inh|Null|Null|Null||2205..2242|Inh|Null|Null|Null|||||||2200..2204|DEFAULT|
+Explicit|2200..2204|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||2162..2199|Inh|Null|Null|Null||2205..2242|Inh|Null|Null|Null|||||||2200..2204|DEFAULT|
 Explicit|2245..2251|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||2162..2242|Inh|Null|Null|Null||2252..2365|Inh|Null|Null|Null|||||||2245..2251|DEFAULT|
 Explicit|2368..2372|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||2252..2365|Inh|Null|Null|Null||2373..2420|Inh|Null|Null|Null|||||||2368..2372|DEFAULT|
 Explicit|2373..2379|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||2252..2365|Inh|Null|Null|Null||2380..2420|Inh|Null|Null|Null|||||||2373..2379|DEFAULT|
