@@ -137,7 +137,7 @@ Implicit||Wr|Comm|Null|Null||em suma|Expansion.Level-of-detail.Arg1-as-detail|||
 Explicit|9381..9384|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||9348..9380|Inh|Null|Null|Null||9385..9424|Inh|Null|Null|Null|||||||9381..9384|DEFAULT|
 Implicit||Wr|Comm|Null|Null||pelo contrário|Comparison.Contrast||||||9348..9422|Inh|Null|Null|Null||9425..9471|Inh|Null|Null|Null|||||||9425|DEFAULT|
 Explicit|9437..9443|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||9425..9436|Inh|Null|Null|Null||9444..9471|Inh|Null|Null|Null|||||||9437..9443|DEFAULT|
-EntRel||||||||||||||9423..9471||||||9475..9853|||||||||||9475|DEFAULT|
+EntRel||||||||||||||9425..9471||||||9475..9853|||||||||||9475|DEFAULT|
 Explicit|9485..9491|Wr|Comm|Null|Null|||Temporal.Synchronous||||||9492..9516|Inh|Null|Null|Null||9519..9853|Inh|Null|Null|Null|||||||9485..9491|DEFAULT|
 Explicit|9599..9602|Wr|Comm|Neg|Null|||Expansion.Conjunction||||||9528..9596|Inh|Null|Null|Null||9603..9628|Inh|Null|Null|Null|||||||9599..9602|DEFAULT|
 Explicit|9791..9795|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||9715..9790|Inh|Null|Null|Null||9796..9853|Inh|Null|Null|Null|||||||9791..9795|DEFAULT|
