@@ -12,7 +12,7 @@ Explicit|768..772|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||722.
 Implicit||Wr|Comm|Null|Null||Da mesma forma|Comparison.Similarity||||||676..846|Inh|Null|Null|Null||849..932|Inh|Null|Null|Null|||||||849|DEFAULT|
 Implicit||Wr|Comm|Null|Null||mas|Comparison.Concession.Arg2-as-denier||||||849..932|Inh|Null|Null|Null||936..966|Inh|Null|Null|Null|||||||936|DEFAULT|
 Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||936..966|Inh|Null|Null|Null||969..989|Inh|Null|Null|Null|||||||969|DEFAULT|
-AltLex|969..975|Wr|Comm|Null|Null|||Contingency.Cause.Reason|Hypophora|||||996..2128|Inh|Null|Null|Null||976..989|Inh|Null|Null|Null|||||||969..975|DEFAULT|
+AltLex|969..975|Wr|Comm|Null|Null|||Contingency.Cause.Reason|Hypophora|||||998..2128|Inh|Null|Null|Null||976..989|Inh|Null|Null|Null|||||||969..975|DEFAULT|
 AltLex|998..1012|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond|Contingency.Cause.Result|||||1103..1220|Inh|Null|Null|Null||1013..1100|Inh|Null|Null|Null|||||||998..1012|DEFAULT|
 Explicit|1051..1052|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1013..1050|Inh|Null|Null|Null||1053..1062|Inh|Null|Null|Null|||||||1051..1052|DEFAULT|
 Implicit||Wr|Comm|Null|Null||depois|Temporal.Asynchronous.Precedence||||||1013..1050|Inh|Null|Null|Null||1051..1062|Inh|Null|Null|Null|||||||1051|DEFAULT|
