@@ -40,7 +40,7 @@ Explicit|2234..2235|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2222..2233|In
 Explicit|2561..2567|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||2528..2558|Inh|Null|Null|Null||2568..2575|Inh|Null|Null|Null|||||||2561..2567|DEFAULT|
 Explicit|2578..2584|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||2568..2575|Inh|Null|Null|Null||2585..2605|Inh|Null|Null|Null|||||||2578..2584|DEFAULT|
 Explicit|2608..2609|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2516..2605|Inh|Null|Null|Null||2610..2661|Inh|Null|Null|Null|||||||2608..2609|DEFAULT|
-Explicit|2610..2616|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||2514..2605|Inh|Null|Null|Null||2608..2609;2617..2661|Inh|Null|Null|Null|||||||2610..2616|DEFAULT|
+Explicit|2610..2616|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||2516..2605|Inh|Null|Null|Null||2608..2609;2617..2661|Inh|Null|Null|Null|||||||2610..2616|DEFAULT|
 Explicit|2664..2665|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2516..2663|Inh|Null|Null|Null||2666..2704|Inh|Null|Null|Null|||||||2664..2665|DEFAULT|
 Explicit|2707..2708|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2666..2704|Inh|Null|Null|Null||2709..2742|Inh|Null|Null|Null|||||||2707..2708|DEFAULT|
 Explicit|2733..2736|Wr|Comm|Neg|Null|||Expansion.Conjunction||||||2709..2730|Inh|Null|Null|Null||2737..2742|Inh|Null|Null|Null|||||||2733..2736|DEFAULT|
