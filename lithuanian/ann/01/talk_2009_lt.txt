@@ -21,7 +21,7 @@ Explicit|1329..1333|Wr|Comm|Null|Null|||Expansion.Manner.Arg2-as-manner||||||135
 EntRel||||||||||||||1180..1325||||||1329..1425|||||||||||1329|DEFAULT|
 Implicit||Wr|Comm|Null|Null||faktiškai|Expansion.Level-of-detail.Arg2-as-detail||||||1351..1425|Inh|Null|Null|Null||1427..1573|Inh|Null|Null|Null|||||||1427|DEFAULT|
 Implicit||Wr|Comm|Null|Null||o|Expansion.Conjunction|Comparison.Contrast|||||1427..1573|Inh|Null|Null|Null||1575..1662|Inh|Null|Null|Null|||||||1575|DEFAULT|
-EntRel||||||||||||||1573..1662||||||1666..1813|||||||||||1666|DEFAULT|
+EntRel||||||||||||||1575..1662||||||1666..1813|||||||||||1666|DEFAULT|
 Explicit|1790..1793|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||1666..1788|Inh|Null|Null|Null||1794..1813|Inh|Null|Null|Null|||||||1790..1793|DEFAULT|
 Implicit||Wr|Comm|Null|Null||tuo tarpu|Comparison.Contrast||||||1666..1813|Inh|Null|Null|Null||1815..1990|Inh|Null|Null|Null|||||||1815|DEFAULT|
 Implicit||Wr|Comm|Null|Null||nes|Contingency.Cause.Reason||||||1815..1861|Inh|Null|Null|Null||1863..1905|Inh|Null|Null|Null|||||||1863|DEFAULT|
@@ -36,7 +36,7 @@ Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||2299..2430|Inh|Null|N
 Explicit|2471..2474|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||2432..2469|Inh|Null|Null|Null||2475..2580|Inh|Null|Null|Null|||||||2471..2474|DEFAULT|
 Explicit|2584..2587|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||2432..2580|Inh|Null|Null|Null||2588..2651|Inh|Null|Null|Null|||||||2584..2587|DEFAULT|
 Implicit||Wr|Comm|Null|Null||nes|Contingency.Cause.Reason||||||2584..2651|Inh|Null|Null|Null||2653..2705|Inh|Null|Null|Null|||||||2653|DEFAULT|
-Implicit||Wr|Comm|Null|Null||kaıp|Expansion.Manner.Arg2-as-manner||||||2651..2680|Inh|Null|Null|Null||2681..2705|Inh|Null|Null|Null|||||||2681|DEFAULT|
+Implicit||Wr|Comm|Null|Null||kaıp|Expansion.Manner.Arg2-as-manner||||||2653..2680|Inh|Null|Null|Null||2681..2705|Inh|Null|Null|Null|||||||2681|DEFAULT|
 Implicit||Wr|Comm|Null|Null||konkreciai|Expansion.Level-of-detail.Arg2-as-detail||||||2653..2705|Inh|Null|Null|Null||2707..2922|Inh|Null|Null|Null|||||||2707|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||2707..2728|Inh|Null|Null|Null||2730..2746|Inh|Null|Null|Null|||||||2730|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||2707..2798|Inh|Null|Null|Null||2801..2922|Inh|Null|Null|Null|||||||2801|DEFAULT|
