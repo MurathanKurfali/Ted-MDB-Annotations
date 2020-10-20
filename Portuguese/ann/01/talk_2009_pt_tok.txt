@@ -2,7 +2,7 @@ Implicit||Wr|Comm|Null|Null||por conseguinte|Contingency.Cause.Result||||||0..47
 Implicit||Wr|Comm|Null|Null||pois|Contingency.Cause.Reason||||||80..177|Inh|Null|Null|Null||180..290|Inh|Null|Null|Null|||||||180|DEFAULT|
 Explicit|293..301|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||180..290|Inh|Null|Null|Null||304..536|Inh|Null|Null|Null|||||||293..301|DEFAULT|
 Explicit|418..419|Wr|Comm|Null|Null|||Temporal.Synchronous||||||304..415|Inh|Null|Null|Null||420..536|Inh|Null|Null|Null|||||||418..419|DEFAULT|
-Explicit|435..436|Wr|Comm|Null|Null|||Expansion.Conjunction||||||416..434|Inh|Null|Null|Null||437..536|Inh|Null|Null|Null|||||||435..436|DEFAULT|
+Explicit|435..436|Wr|Comm|Null|Null|||Expansion.Conjunction||||||418..434|Inh|Null|Null|Null||437..536|Inh|Null|Null|Null|||||||435..436|DEFAULT|
 Implicit||Wr|Comm|Null|Null||depois|Temporal.Asynchronous.Precedence||||||304..536|Inh|Null|Null|Null||540..766|Inh|Null|Null|Null|||||||540|DEFAULT|
 Explicit|559..562|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||540..556|Inh|Null|Null|Null||563..766|Inh|Null|Null|Null|||||||559..562|DEFAULT|
 Explicit|624..625|Wr|Comm|Null|Null|||Expansion.Conjunction||||||615..623|Inh|Null|Null|Null||626..688|Inh|Null|Null|Null|||||||624..625|DEFAULT|
