@@ -123,7 +123,7 @@ NoRel||||||||||||||7834..7970||||||7975..7997|||||||||||7975|DEFAULT|
 NoRel||||||||||||||7975..7997||||||8001..8046||||||||||||DEFAULT|
 Implicit||Wr|Comm|Null|Null||isto é|Expansion.Level-of-detail.Arg2-as-detail||||||8015..8046|Inh|Null|Null|Null||8049..8138|Inh|Null|Null|Null|||||||8049|DEFAULT|
 Implicit||Wr|Comm|Null|Null||porque|Contingency.Cause.Reason||||||8049..8138|Inh|Null|Null|Null||8141..8183|Inh|Null|Null|Null|||||||8141|DEFAULT|
-Implicit||Wr|Comm|Null|Null||e|Expansion.Level-of-detail.Arg2-as-detail||||||8139..8183|Inh|Null|Null|Null||8186..8274|Inh|Null|Null|Null|||||||8186|DEFAULT|
+Implicit||Wr|Comm|Null|Null||e|Expansion.Level-of-detail.Arg2-as-detail||||||8141..8183|Inh|Null|Null|Null||8186..8274|Inh|Null|Null|Null|||||||8186|DEFAULT|
 Implicit||Wr|Comm|Null|Null||pelo contrário|Expansion.Substitution.Arg2-as-subst||||||8186..8274|Inh|Null|Null|Null||8277..8292|Inh|Null|Null|Null|||||||8277|DEFAULT|
 Explicit|8295..8303|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Result+Belief||||||8277..8292|Inh|Null|Null|Null||8306..8346|Inh|Null|Null|Null|||||||8295..8303|DEFAULT|
 Explicit|8349..8352|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||8186..8346|Inh|Null|Null|Null||8353..8424|Inh|Null|Null|Null|||||||8349..8352|DEFAULT|
