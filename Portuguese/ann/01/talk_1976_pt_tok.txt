@@ -64,7 +64,7 @@ Implicit||Wr|Comm|Null|Null||por sua vez|Comparison.Contrast||||||3099..3267|Inh
 Implicit||Wr|Comm|Null|Null||especificamente|Expansion.Level-of-detail.Arg2-as-detail||||||3270..3322|Inh|Null|Null|Null||3325..3545|Inh|Null|Null|Null|||||||3325|DEFAULT|
 Explicit|3509..3510|Wr|Comm|Null|Null|||Expansion.Conjunction||||||3325..3506|Inh|Null|Null|Null||3517..3545|Inh|Null|Null|Null|||||||3509..3510|DEFAULT|
 Implicit||Wr|Comm|Null|Null||por conseguinte|Contingency.Cause.Result||||||3325..3506|Inh|Null|Null|Null||3509..3545|Inh|Null|Null|Null|||||||3509|DEFAULT|
-Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||3515..3545|Inh|Null|Null|Null||3548..3576|Inh|Null|Null|Null|||||||3548|DEFAULT|
+Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||3517..3545|Inh|Null|Null|Null||3548..3576|Inh|Null|Null|Null|||||||3548|DEFAULT|
 EntRel||||||||||||||3548..3576||||||3579..3780|||||||||||3579|DEFAULT|
 Explicit|3605..3606|Wr|Comm|Null|Null|||Expansion.Conjunction||||||3579..3602|Inh|Null|Null|Null||3607..3622|Inh|Null|Null|Null|||||||3605..3606|DEFAULT|
 Explicit|3625..3631|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||3607..3622|Inh|Null|Null|Null||3634..3707|Inh|Null|Null|Null|||||||3625..3631|DEFAULT|
