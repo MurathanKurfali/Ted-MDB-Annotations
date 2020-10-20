@@ -115,7 +115,7 @@ Explicit|5664..5669|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence|||||555
 Implicit||Wr|Comm|Null|Null||especificamente|Expansion.Level-of-detail.Arg2-as-detail||||||5670..5696|Inh|Null|Null|Null||5699..5739|Inh|Null|Null|Null|||||||5699|DEFAULT|
 Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||5699..5739|Inh|Null|Null|Null||5742..5850|Inh|Null|Null|Null|||||||5742|DEFAULT|
 Implicit||Wr|Comm|Null|Null||de facto|Expansion.Level-of-detail.Arg2-as-detail||||||5742..5850|Inh|Null|Null|Null||5853..5968|Inh|Null|Null|Null|||||||5853|DEFAULT|
-Explicit|5886..5887|Wr|Comm|Null|Null|||Expansion.Conjunction||||||5851..5883|Inh|Null|Null|Null||5888..5968|Inh|Null|Null|Null|||||||5886..5887|DEFAULT|
+Explicit|5886..5887|Wr|Comm|Null|Null|||Expansion.Conjunction||||||5853..5883|Inh|Null|Null|Null||5888..5968|Inh|Null|Null|Null|||||||5886..5887|DEFAULT|
 Implicit||Wr|Comm|Null|Null||de facto|Expansion.Level-of-detail.Arg2-as-detail||||||5853..5968|Inh|Null|Null|Null||5971..6013|Inh|Null|Null|Null|||||||5971|DEFAULT|
 Explicit|6016..6019|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||5971..6013|Inh|Null|Null|Null||6020..6134|Inh|Null|Null|Null|||||||6016..6019|DEFAULT|
 Explicit|6020..6022|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||6112..6134|Inh|Null|Null|Null||6023..6109|Inh|Null|Null|Null|||||||6020..6022|DEFAULT|
