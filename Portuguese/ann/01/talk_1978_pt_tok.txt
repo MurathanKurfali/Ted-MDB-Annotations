@@ -21,7 +21,7 @@ AltLex|1039..1050|Wr|Comm|Null|Null|||Hypophora||||||1095..1138|Inh|Null|Null|Nu
 Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||1095..1138|Inh|Null|Null|Null||1141..1218|Inh|Null|Null|Null|||||||1141|DEFAULT|
 Explicit|1160..1166|Wr|Comm|Null|Null|||Temporal.Synchronous||||||1150..1159|Inh|Null|Null|Null||1167..1218|Inh|Null|Null|Null|||||||1160..1166|DEFAULT|
 Implicit||Wr|Comm|Null|Null||isto é|Expansion.Level-of-detail.Arg2-as-detail||||||1141..1218|Inh|Null|Null|Null||1222..1431|Inh|Null|Null|Null|||||||1222|DEFAULT|
-Explicit|1246..1252|Wr|Comm|Null|Null|||Temporal.Synchronous||||||1222..1245|Inh|Null|Null|Null||1253..1327|Inh|Null|Null|Null||1328..1433|||||1246..1252|DEFAULT|
+Explicit|1246..1252|Wr|Comm|Null|Null|||Temporal.Synchronous||||||1222..1245|Inh|Null|Null|Null||1255..1327|Inh|Null|Null|Null||1328..1433|||||1246..1252|DEFAULT|
 Implicit||Wr|Comm|Null|Null||pois|Contingency.Cause.Reason|||||1328..1431|1279..1325|Inh|Null|Null|Null||1434..1581|Inh|Null|Null|Null|||||||1434|DEFAULT|
 Explicit|1515..1519|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||1547..1581|Inh|Null|Null|Null||1520..1544|Inh|Null|Null|Null|||||||1515..1519|DEFAULT|
 Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||1434..1581|Inh|Null|Null|Null||1584..1731|Inh|Null|Null|Null|||||||1584|DEFAULT|
