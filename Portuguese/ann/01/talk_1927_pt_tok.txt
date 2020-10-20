@@ -100,7 +100,7 @@ Explicit|6245..6246|Wr|Comm|Null|Null|||Expansion.Conjunction||||||6215..6244|In
 Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||6204..6295|Inh|Null|Null|Null||6298..6375|Inh|Null|Null|Null|||||||6298|DEFAULT|
 Explicit|6397..6398|Wr|Comm|Null|Null|||Expansion.Conjunction|||||6365..6375|6384..6396|Inh|Null|Null|Null||6399..6443|Inh|Null|Null|Null|||||||6397..6398|DEFAULT|
 Implicit||Wr|Comm|Null|Null||por exemplo|Expansion.Instantiation||||||6384..6443|Inh|Null|Null|Null||6446..6598|Inh|Null|Null|Null|||||||6446|DEFAULT|
-Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||6454..6598|Inh|Null|Null|Null||6601..6679|Inh|Null|Null|Null|||||||6601|DEFAULT|
+Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||6456..6598|Inh|Null|Null|Null||6601..6679|Inh|Null|Null|Null|||||||6601|DEFAULT|
 Explicit|6682..6687|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||6601..6679|Inh|Null|Null|Null||6690..6849|Inh|Null|Null|Null|||||||6682..6687|DEFAULT|
 Implicit||Wr|Comm|Null|Null||por isso|Contingency.Cause+SpeechAct.Result+SpeechAct||||||6601..6849|Inh|Null|Null|Null||6852..6896|Inh|Null|Null|Null|||||||6852|DEFAULT|
 NoRel||||||||||||||6852..6896||||||6899..6924||||||||||||DEFAULT|
