@@ -23,7 +23,7 @@ Implicit||Wr|Comm|Null|Null||portanto|Contingency.Cause.Result||||||1459..1482|I
 Implicit||Wr|Comm|Null|Null||consequentemente|Contingency.Cause.Result||||||1459..1514|Inh|Null|Null|Null||1517..1603|Inh|Null|Null|Null|||||||1517|DEFAULT|
 Implicit||Wr|Comm|Null|Null||isto é|Expansion.Level-of-detail.Arg2-as-detail||||||1517..1547|Inh|Null|Null|Null||1550..1603|Inh|Null|Null|Null|||||||1550|DEFAULT|
 Explicit|1577..1578|Wr|Comm|Null|Null|||Expansion.Conjunction|Temporal.Synchronous|||||1550..1576|Inh|Null|Null|Null||1579..1603|Inh|Null|Null|Null|||||||1577..1578|DEFAULT|
-Implicit||Wr|Comm|Null|Null||no entanto|Comparison.Contrast||||||1515..1603|Inh|Null|Null|Null||1606..1627|Inh|Null|Null|Null|||||||1606|DEFAULT|
+Implicit||Wr|Comm|Null|Null||no entanto|Comparison.Contrast||||||1517..1603|Inh|Null|Null|Null||1606..1627|Inh|Null|Null|Null|||||||1606|DEFAULT|
 Explicit|1617..1619|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||1606..1614|Inh|Null|Null|Null||1620..1627|Inh|Null|Null|Null|||||||1617..1619|DEFAULT|
 Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction|||||1617..1627|1606..1614|Inh|Null|Null|Null||1630..1655|Inh|Null|Null|Null|||||||1630|DEFAULT|
 NoRel||||||||||||||1630..1655||||||1669..1768||||||||||||DEFAULT|
