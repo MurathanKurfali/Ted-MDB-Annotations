@@ -33,7 +33,7 @@ Implicit||Wr|Comm|Null|Null||ir|Expansion.Conjunction||||||1653..1774|Inh|Null|N
 Implicit||Wr|Comm|Null|Null||nes|Contingency.Cause.Reason||||||1776..1825|Inh|Null|Null|Null||1827..2076|Inh|Null|Null|Null|||||||1827|DEFAULT|
 Explicit|1873..1876|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||1827..1871|Inh|Null|Null|Null||1877..1917|Inh|Null|Null|Null|||||||1873..1876|DEFAULT|
 Explicit|1919..1922|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||1827..1871|Inh|Null|Null|Null||1923..2041|Inh|Null|Null|Null|||||||1919..1922|DEFAULT|
-Explicit|2042..2044|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1825..2041|Inh|Null|Null|Null||2054..2076|Inh|Null|Null|Null|||||||2042..2044|DEFAULT|
+Explicit|2042..2044|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1827..2041|Inh|Null|Null|Null||2054..2076|Inh|Null|Null|Null|||||||2042..2044|DEFAULT|
 Explicit|2045..2053|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||1827..2041|Inh|Null|Null|Null||2054..2076|Inh|Null|Null|Null|||||||2045..2053|DEFAULT|
 Implicit||Wr|Comm|Null|Null||konkreciai|Expansion.Level-of-detail.Arg2-as-detail||||||2054..2076|Inh|Null|Null|Null||2078..2146|Inh|Null|Null|Null|||||||2078|DEFAULT|
 Implicit||Wr|Comm|Null|Null||kitaip tariant|Expansion.Level-of-detail.Arg2-as-detail||||||2078..2146|Inh|Null|Null|Null||2148..2206|Inh|Null|Null|Null|||||||2148|DEFAULT|
