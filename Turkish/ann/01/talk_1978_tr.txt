@@ -149,7 +149,7 @@ EntRel||||||||||||||8138..8238||||||8240..8406|||||||||||8240|DEFAULT|
 Explicit|8313..8317|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||8383..8406|Inh|Null|Null|Null||8270..8312|Inh|Null|Null|Null|||||||8313..8317|DEFAULT|
 Explicit|8319..8334|Wr|Comm|Null|Null|||Expansion.Conjunction||||||8270..8317|Inh|Null|Null|Null||8335..8365|Inh|Null|Null|Null|||||||8319..8334|DEFAULT|
 Implicit||Wr|Comm|Null|Null||çünkü|Contingency.Cause.Reason||||||8240..8406|Inh|Null|Null|Null||8408..8477|Inh|Null|Null|Null|||||||8408|DEFAULT|
-Explicit|8455..8459|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Reason+Belief (Arg2-gives-evidence)||||||8460..8477|Inh|Null|Null|Null||8408..8454|Inh|Null|Null|Null|||||||8455..8459|DEFAULT|
+Explicit|8455..8459|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Reason+Belief||||||8460..8477|Inh|Null|Null|Null||8408..8454|Inh|Null|Null|Null|||||||8455..8459|DEFAULT|
 Implicit||Wr|Comm|Null|Null||aslında|Expansion.Substitution.Arg2-as-subst||||||8408..8477|Inh|Null|Null|Null||8479..8525|Inh|Null|Null|Null|||||||8479|DEFAULT|
 Explicit|8490..8495|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||8479..8489|Inh|Null|Null|Null||8496..8525|Inh|Null|Null|Null|||||||8490..8495|DEFAULT|
 EntRel||||||||||||||8479..8525||||||8527..8860|||||||||||8527|DEFAULT|
