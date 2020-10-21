@@ -27,7 +27,8 @@ Implicit||Wr|Comm|Null|Null||ama|Comparison.Contrast||||||1432..1478|Inh|Null|Nu
 Implicit||Wr|Comm|Null|Null||bir başka deyişle|Expansion.Level-of-detail.Arg2-as-detail||||||1496..1512|Inh|Null|Null|Null||1514..1533|Inh|Null|Null|Null|||||||1514|DEFAULT|
 NoRel||||||||||||||1256..1533||||||1548..1648|||||||||||1548..1551|DEFAULT|
 Implicit||Wr|Comm|Null|Null||söz gelimi|Expansion.Instantiation||||||1552..1648|Inh|Null|Null|Null||1650..1875|Inh|Null|Null|Null|||||||1650|DEFAULT|
-Explicit|1731..1739|Wr|Comm|Null|Null|||Temporal.Synchronous||||||1740..1875|Inh|Null|Null|Null||1676..1739|Inh|Null|Null|Null|||Rejected||||1731..1739|DEFAULT|
+Explicit|1688..1693|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1694..1739|Inh|Null|Null|Null||1663..1687|Inh|Null|Null|Null|||||||1688..1693|DEFAULT|
+Explicit|1731..1739|Wr|Comm|Null|Null|||Temporal.Synchronous||||||1740..1875|Inh|Null|Null|Null||1676..1739|Inh|Null|Null|Null|||||||1731..1739|DEFAULT|
 Explicit|1877..1879|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1663..1875|Inh|Null|Null|Null||1880..1932|Inh|Null|Null|Null|||||||1877..1879|DEFAULT|
 Explicit|1912..1915|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1898..1910|Inh|Null|Null|Null||1916..1932|Inh|Null|Null|Null|||||||1912..1915|DEFAULT|
 Implicit||Wr|Comm|Null|Null||çünkü|Contingency.Cause.Reason||||||1916..1932|Inh|Null|Null|Null||1934..2047|Inh|Null|Null|Null|||||||1934|DEFAULT|
@@ -104,6 +105,7 @@ Implicit||Wr|Comm|Null|Null||fakat|Expansion.Substitution.Arg1-as-subst||||||559
 Explicit|5632..5637|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||5613..5630|Inh|Null|Null|Null||5638..5698|Inh|Null|Null|Null|||||||5632..5637|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ve|Expansion.Conjunction||||||5638..5698|Inh|Null|Null|Null||5700..5809|Inh|Null|Null|Null|||Rejected||||5700|DEFAULT|
 NoRel||||||||||||||5638..5698||||||5700..5809||||||||||||DEFAULT|
+Explicit|5740..5746|Wr|Comm|Null|Null|||Expansion.Conjunction||||||5747..5778|Inh|Null|Null|Null||5713..5739|Inh|Null|Null|Null|||||||5740..5746|DEFAULT|
 Explicit|5747..5749|Wr|Comm|Null|Null|||Expansion.Conjunction||||||5713..5746|Inh|Null|Null|Null||5750..5778|Inh|Null|Null|Null|||||||5747..5749|DEFAULT|false
 Explicit|5771..5778|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||5780..5809|Inh|Null|Null|Null||5708..5778|Inh|Null|Null|Null|||||||5771..5778|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ve|Expansion.Conjunction||||||5700..5809|Inh|Null|Null|Null||5811..5874|Inh|Null|Null|Null|||||||5811|DEFAULT|
@@ -168,6 +170,10 @@ Explicit|8388..8390|Wr|Comm|Null|Null|||Expansion.Conjunction||||||8349..8387|In
 Explicit|8398..8409|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||8410..8471|Inh|Null|Null|Null||8391..8409|Inh|Null|Null|Null|||||||8398..8409|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ve|Expansion.Conjunction||||||8344..8478|Inh|Null|Null|Null||8480..8531|Inh|Null|Null|Null|||||||8480|DEFAULT|
 Implicit||Wr|Comm|Null|Null||öte yandan|Comparison.Contrast||||||8187..8531|Inh|Null|Null|Null||8533..8721|Inh|Null|Null|Null|||||||8533|DEFAULT|
+Explicit|8617..8629|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||8732..8936|Inh|Null|Null|Null||8567..8616|Inh|Null|Null|Null|||||||8617..8629|DEFAULT|
+Explicit|8631..8643|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||8732..8936|Inh|Null|Null|Null||8567..8629|Inh|Null|Null|Null|||||||8631..8643|DEFAULT|
+Explicit|8650..8657|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||8732..8936|Inh|Null|Null|Null||8567..8649|Inh|Null|Null|Null|||||||8650..8657|DEFAULT|
+Explicit|8716..8721|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||8732..8936|Inh|Null|Null|Null||8567..8715|Inh|Null|Null|Null|||||||8716..8721|DEFAULT|
 AltLex|8559..8566|Wr|Comm|Null|Null|||Comparison.Contrast|Hypophora|||||8567..8721|Inh|Null|Null|Null||8732..8936|Inh|Null|Null|Null|||||||8559..8566|DEFAULT|
 Explicit|8851..8856|Wr|Comm|Null|Null|||Comparison.Contrast||||||8798..8849|Inh|Null|Null|Null||8857..8936|Inh|Null|Null|Null|||||||8851..8856|DEFAULT|
 Implicit||Wr|Comm|Null|Null||aslında|Expansion.Level-of-detail.Arg2-as-detail||||||8798..8936|Inh|Null|Null|Null||8939..8985|Inh|Null|Null|Null|||Rejected||||8939|DEFAULT|
@@ -178,12 +184,13 @@ Explicit|9099..9103|Wr|Comm|Null|Null|||Expansion.Disjunction||||||9082..9098|In
 Implicit||Wr|Comm|Null|Null||ama|Expansion.Exception.Arg2-as-excpt||||||8993..9151|Inh|Null|Null|Null||9159..9196|Inh|Null|Null|Null|||||||9159|DEFAULT|
 Explicit|9169..9181|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||9182..9196|Inh|Null|Null|Null||9159..9181|Inh|Null|Null|Null|||||||9169..9181|DEFAULT|
 NoRel||||||||||||||9159..9196||||||9211..9327|||||||||||9211..9235|DEFAULT|
-Explicit|9251..9255|Wr|Comm|Null|Null|||Expansion.Disjunction||||||9256..9289|Inh|Null|Null|Null||9237..9255|Inh|Null|Null|Null|||||||9251..9255|DEFAULT|
+Explicit|9244..9250|Wr|Comm|Null|Null|||Expansion.Disjunction||||||9256..9289|Inh|Null|Null|Null||9237..9243;9251..9255|Inh|Null|Null|Null|||||||9244..9250|DEFAULT|
 Explicit|9290..9294|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||9295..9327|Inh|Null|Null|Null||9237..9289|Inh|Null|Null|Null|||||||9290..9294|DEFAULT|
 Explicit|9319..9327||||||||||||||||||||||||||Rejected||||9319..9327|DEFAULT|
 NoRel||||||||||||||9211..9327||||||9329..9392|||||||||||9329..9333|DEFAULT|
 Explicit|9364..9374|Wr|Comm|Null|Null|||Temporal.Asynchronous||||||9375..9392|Inh|Null|Null|Null||9334..9371|Inh|Null|Null|Null|||||||9364..9374|DEFAULT|
 Implicit||Wr|Comm|Null|Null||şöyle ki|Expansion.Level-of-detail.Arg2-as-detail||||||9375..9392|Inh|Null|Null|Null||9394..9528|Inh|Null|Null|Null|||||||9394|DEFAULT|
+Explicit|9433..9442|Wr|Comm|Null|Null|||Expansion.Manner.Arg2-as-manner||||||9443..9462|Inh|Null|Null|Null||9394..9432|Inh|Null|Null|Null|||||||9433..9442|DEFAULT|
 Explicit|9463..9465|Wr|Comm|Null|Null|||Expansion.Conjunction||||||9394..9462|Inh|Null|Null|Null||9466..9528|Inh|Null|Null|Null|||||||9463..9465|DEFAULT|false
 Explicit|9466..9481|Wr|Comm|Null|Null|||Temporal.Synchronous||||||9394..9462|Inh|Null|Null|Null||9463..9465;9482..9528|Inh|Null|Null|Null|||||||9466..9481|DEFAULT|
 Explicit|9580..9582|Wr|Comm|Null|Null|||Expansion.Conjunction||||||9552..9579|Inh|Null|Null|Null||9583..9630|Inh|Null|Null|Null|||||||9580..9582|DEFAULT|false
