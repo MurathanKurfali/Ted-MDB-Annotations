@@ -111,7 +111,7 @@ Implicit||Wr|Comm|Null|Null||isto é|Expansion.Level-of-detail.Arg2-as-detail|||
 Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||5422..5461|Inh|Null|Null|Null||5464..5519|Inh|Null|Null|Null|||||||5464|DEFAULT|
 Implicit||Wr|Comm|Null|Null||agora|Temporal.Asynchronous.Precedence||||||5464..5519|Inh|Null|Null|Null||5522..5554|Inh|Null|Null|Null|||||||5522|DEFAULT|
 EntRel||||||||||||||5522..5554||||||5557..5661|||||||||||5557|DEFAULT|
-Explicit|5664..5669|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence|||||5555..5661|5522..5554|Inh|Null|Null|Null||5670..5696|Inh|Null|Null|Null|||||||5664..5669|DEFAULT|
+Explicit|5664..5669|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence|||||5557..5661|5522..5554|Inh|Null|Null|Null||5670..5696|Inh|Null|Null|Null|||||||5664..5669|DEFAULT|
 Implicit||Wr|Comm|Null|Null||especificamente|Expansion.Level-of-detail.Arg2-as-detail||||||5670..5696|Inh|Null|Null|Null||5699..5739|Inh|Null|Null|Null|||||||5699|DEFAULT|
 Implicit||Wr|Comm|Null|Null||e|Expansion.Conjunction||||||5699..5739|Inh|Null|Null|Null||5742..5850|Inh|Null|Null|Null|||||||5742|DEFAULT|
 Implicit||Wr|Comm|Null|Null||de facto|Expansion.Level-of-detail.Arg2-as-detail||||||5742..5850|Inh|Null|Null|Null||5853..5968|Inh|Null|Null|Null|||||||5853|DEFAULT|
