@@ -16,7 +16,7 @@ Explicit|1293..1301|Wr|Comm|Null|Null|||Comparison.Concession+SpeechAct.Arg2-as-
 Implicit||Wr|Comm|Null|Null||porque|Contingency.Cause.Reason||||||1177..1313|Inh|Null|Null|Null||1315..1459|Inh|Null|Null|Null|||||||1315|DEFAULT|
 Explicit|1401..1405|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||1315..1398|Inh|Null|Null|Null||1406..1459|Inh|Null|Null|Null|||||||1401..1405|DEFAULT|
 Implicit||Wr|Comm|Null|Null||por conseguinte|Contingency.Cause.Result||||||1315..1459|Inh|Null|Null|Null||1462..1589|Inh|Null|Null|Null|||||||1462|DEFAULT|
-AltLex|1590..1603|Wr|Comm|Null|Null|||Comparison.Concession.Arg1-as-denier||||||1462..1589|Inh|Null|Null|Null||1604..1635|Inh|Null|Null|Null|||||||1590..1603|DEFAULT|
+AltLex|1592..1603|Wr|Comm|Null|Null|||Comparison.Concession.Arg1-as-denier||||||1462..1589|Inh|Null|Null|Null||1604..1635|Inh|Null|Null|Null|||||||1592..1603|DEFAULT|
 Explicit|1638..1640|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||1692..1712|Inh|Null|Null|Null||1641..1689|Inh|Null|Null|Null|||||||1638..1640|DEFAULT|
 Implicit||Wr|Comm|Null|Null||porque|Contingency.Cause.Reason||||||1592..1635|Inh|Null|Null|Null||1638..1712|Inh|Null|Null|Null|||||||1638|DEFAULT|
 Explicit|1715..1716|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1692..1712|Inh|Null|Null|Null||1717..1753|Inh|Null|Null|Null|||||||1715..1716|DEFAULT|
