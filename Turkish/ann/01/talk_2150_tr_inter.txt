@@ -10,7 +10,7 @@ Explicit|833..835|Wr|Comm|Null|Null|||Comparison.Similarity||||||750..826|Inh|Nu
 Implicit||Wr|Comm|Null|Null||ise|Expansion.Conjunction|Expansion.Level-of-detail.Arg2-as-detail|||||828..862|Inh|Null|Null|Null||877..952|Inh|Null|Null|Null|||||||877|DEFAULT|
 NoRel||||||||||||||877..1021||||||1023..1138||||||||||||DEFAULT|
 Explicit|1140..1145|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1023..1138|Inh|Null|Null|Null||1147..1203|Inh|Null|Null|Null|||||||1140..1145|DEFAULT|
-Implicit||Wr|Comm|Null|Null||ve|Expansion.Conjunction||yani|Contingency.Cause+Belief.Reason+Belief (Arg2-gives-evidence)|||1147..1203|Inh|Null|Null|Null||1205..1241|Inh|Null|Null|Null|||||||1205|DEFAULT|
+Implicit||Wr|Comm|Null|Null||ve|Expansion.Conjunction||yani|Contingency.Cause+Belief.Reason+Belief|||1147..1203|Inh|Null|Null|Null||1205..1241|Inh|Null|Null|Null|||||||1205|DEFAULT|
 Explicit|1243..1248|Wr|Comm|Null|Null|||Comparison.Contrast||||||1205..1241|Inh|Null|Null|Null||1249..1316|Inh|Null|Null|Null|||Rejected||||1243..1248|DEFAULT|
 AltLex|1288..1316|Wr|Comm|Null|Null|||Comparison.Contrast||||||1205..1241|Inh|Null|Null|Null||1243..1316|Inh|Null|Null|Null|||||||1288..1316|DEFAULT|
 NoRel||||||||||||||1249..1316||||||1318..1516||||||||||||DEFAULT|
@@ -39,9 +39,9 @@ Implicit||Wr|Comm|Null|Null||şöyle ki|Expansion.Level-of-detail.Arg2-as-detail
 Implicit||Wr|Comm|Null|Null||bununla beraber|Expansion.Conjunction||||||3528..3581|Inh|Null|Null|Null||3583..3722|Inh|Null|Null|Null|||||||3583|DEFAULT|
 Implicit||Wr|Comm|Null|Null||işte|Contingency.Cause+SpeechAct.Result+SpeechAct||||||3583..3722|Inh|Null|Null|Null||3724..3739|Inh|Null|Null|Null|||||||3724|DEFAULT|
 AltLex|3741..3754|Wr|Comm|Null|Null|||Expansion.Conjunction||||||3724..3739|Inh|Null|Null|Null||3756..3808|Inh|Null|Null|Null|||||||3741..3754|DEFAULT|
-Explicit|3810..3817|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Result+Belief (Arg1-gives-evidence)||||||3206..3808|Inh|Null|Null|Null||3819..3882|Inh|Null|Null|Null|||||||3810..3817|DEFAULT|
+Explicit|3810..3817|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Result+Belief||||||3206..3808|Inh|Null|Null|Null||3819..3882|Inh|Null|Null|Null|||||||3810..3817|DEFAULT|
 Explicit|3883..3888|Wr|Comm|Null|Null|||Expansion.Exception.Arg2-as-excpt||||||3819..3882|Inh|Null|Null|Null||3889..3940|Inh|Null|Null|Null|||||||3883..3888|DEFAULT|
-Implicit||Wr|Comm|Null|Null||Sonuç olarak|Contingency.Cause+Belief.Result+Belief (Arg1-gives-evidence)||||||3889..3940|Inh|Null|Null|Null||3942..4031|Inh|Null|Null|Null|||||||3942|DEFAULT|
+Implicit||Wr|Comm|Null|Null||Sonuç olarak|Contingency.Cause+Belief.Result+Belief||||||3889..3940|Inh|Null|Null|Null||3942..4031|Inh|Null|Null|Null|||||||3942|DEFAULT|
 NoRel||||||||||||||3942..4031||||||4038..4060||||||||||||DEFAULT|
 Implicit||Wr|Comm|Null|Null||yani|Expansion.Equivalence||||||4033..4061|Inh|Null|Null|Null||4062..4123|Inh|Null|Null|Null|||||||4062|DEFAULT|
 Implicit||Wr|Comm|Null|Null||üstelik|Expansion.Level-of-detail.Arg2-as-detail||||||4062..4123|Inh|Null|Null|Null||4125..4180|Inh|Null|Null|Null|||||||4125|DEFAULT|
