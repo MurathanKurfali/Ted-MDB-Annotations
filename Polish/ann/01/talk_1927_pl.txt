@@ -28,7 +28,7 @@ Implicit||Wr|Comm|Null|Null||więc (so)|Contingency.Cause.Result||||||1724..1836
 EntRel||||||||||||||1838..2042||||||2044..2156||||||||||||DEFAULT|
 EntRel||||||||||||||2044..2156||||||2158..2315||||||||||||DEFAULT|
 Explicit|2317..2324|Wr|Comm|Null|Null|||Comparison.Contrast||||||2158..2315|Inh|Null|Null|Null||2325..2399|Inh|Null|Null|Null||||||||DEFAULT|
-EntRel||||||||||||||2315..2399||||||2401..2456||||||||||||DEFAULT|
+EntRel||||||||||||||2317..2399||||||2401..2456||||||||||||DEFAULT|
 Explicit|2458..2461|Wr|Comm|Null|Null|||Comparison.Contrast||||||2401..2456|Inh|Null|Null|Null||2462..2589|Inh|Null|Null|Null||||||||DEFAULT|
 EntRel||||||||||||||2458..2589||||||2591..2810||||||||||||DEFAULT|
 Explicit|2813..2817|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||2591..2810|Inh|Null|Null|Null||2818..2992|Inh|Null|Null|Null||||||||DEFAULT|
@@ -129,7 +129,7 @@ Implicit||Wr|Comm|Null|Null||mianowicie|Expansion.Equivalence||||||8112..8160|In
 Explicit|8232..8236|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||8162..8230|Inh|Null|Null|Null||8237..8431|Inh|Null|Null|Null||||||||DEFAULT|
 Explicit|8365..8371|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||8237..8363|Inh|Null|Null|Null||8372..8431|Inh|Null|Null|Null||||||||DEFAULT|
 EntRel||||||||||||||8232..8431||||||8433..8603||||||||||||DEFAULT|
-EntRel||||||||||||||8431..8603||||||8605..8781||||||||||||DEFAULT|
+EntRel||||||||||||||8433..8603||||||8605..8781||||||||||||DEFAULT|
 Explicit|8673..8677|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||8605..8671|Inh|Null|Null|Null||8678..8781|Inh|Null|Null|Null||||||||DEFAULT|
 EntRel||||||||||||||8605..8781||||||8783..8841||||||||||||DEFAULT|
 EntRel||||||||||||||8783..8841||||||8843..9033||||||||||||DEFAULT|
@@ -138,7 +138,7 @@ Explicit|9160..9163|Wr|Comm|Null|Null|||Comparison.Contrast||||||9114..9158|Inh|
 EntRel||||||||||||||9035..9267||||||9270..9528||||||||||||DEFAULT|
 Explicit|9335..9338|Wr|Comm|Null|Null|||Comparison.Contrast||||||9270..9333|Inh|Null|Null|Null||9339..9528|Inh|Null|Null|Null||||||||DEFAULT|
 Explicit|9339..9347|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||9348..9397|Inh|Null|Null|Null||9399..9528|Inh|Null|Null|Null||||||||DEFAULT|
-EntRel||||||||||||||9268..9528||||||9530..9563||||||||||||DEFAULT|
+EntRel||||||||||||||9270..9528||||||9530..9563||||||||||||DEFAULT|
 NoRel||||||||||||||9530..9563||||||9566..9572||||||||||||DEFAULT|
 NoRel||||||||||||||9566..9572||||||9575..9690||||||||||||DEFAULT|
 Explicit|9629..9632|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||9594..9627|Inh|Null|Null|Null||9633..9682|Inh|Null|Null|Null||||||||DEFAULT|
