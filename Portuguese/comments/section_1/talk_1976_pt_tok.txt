@@ -1,8 +1,0 @@
-#Wed Jul 13 12:45:44 WEST 2016
-Implicit||5036..5082|5085..5162="criando uma sombra maravilhosa"\: gerund as result. Not marked.
-NoRel||6743..6850|6854..6899=Conclusion
-Implicit||6137..6238|6241..6479=See relation.
-Explicit|1381..1384|1347..1378|1385..1421=unusual connective
-Implicit||5085..5162|5171..5210=See status of "z\u00E1s". Second occurrence. Altlex for result?
-Implicit||3325..3506|3509..3545=see status of "z\u00E1s"
-Implicit||5853..5968|5971..6013=It's more Confirmation.

@@ -1,3 +1,7 @@
+
+talkid: 1976
+Jeremy Kasdin: The flower-shaped starshade that might help us detect Earth-like planets
+
 Im All wimmelt es von Planeten .
 Ich will , dass wir in nur einem Jahrzehnt ein Weltraumteleskop bauen , das das Bild einer Erde im Orbit eines anderen Sterns erfassen und herausfinden kann , ob es dort Leben geben könnte .
 Meine Kollegen im NASA Jet Propulsion Laboratory in Princeton und ich arbeiten an einer Technologie , die in einigen Jahren genau dazu in der Lage sein wird .
